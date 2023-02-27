@@ -7,7 +7,7 @@ setuptools.setup(
     name='toolbox',
     version='0.0.3',
     author='Mike Huls',
-    author_email='mike_huls@hotmail.com',
+    author_email='jssuriyakumar@gmail.com',
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
