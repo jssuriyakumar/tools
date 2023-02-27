@@ -11,11 +11,11 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/Muls/toolbox',
+    url='https://github.com/jssuriyakumar/tools',
     project_urls = {
-        "Bug Tracker": "https://github.com/Muls/toolbox/issues"
+        "Bug Tracker": "https://github.com/jssuriyakumar/tools/issues"
     },
     license='MIT',
-    packages=['toolbox'],
+    packages=['tools'],
     install_requires=['requests'],
 )
